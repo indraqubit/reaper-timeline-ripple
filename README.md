@@ -49,6 +49,10 @@ Keduanya bekerja **melampaui mode ripple** dan mengenai **semua track + envelope
 
 Taruh folder `reaper-rpp-timeline-edit/` di direktori skills milik harness Anda (mis. `~/.claude/skills/`, `~/.cursor/skills/`, atau `.agents/skills/`). `SKILL.md` adalah entry point; `reference.md` dan `scripts/` dipakai sesuai kebutuhan.
 
+## Author
+
+**@indraqadarsih** — [Threads](https://www.threads.net/@indraqadarsih) · [Instagram](https://www.instagram.com/indraqadarsih)
+
 ## Disclaimer
 
 Uji dulu di salinan project. Skrip ini mengubah timeline; meski ada undo block, selalu punya backup.

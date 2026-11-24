@@ -111,3 +111,7 @@ block = src[s:e+1]                                   # termasuk penutup track
 - **`ffprobe` bisa rusak** (mis. `Library not loaded: libass`). Andalkan durasi dari `LENGTH` item, bukan ffprobe.
 - **Track referensi** (video cut baru) jangan di-cut; biarkan utuh sebagai acuan.
 - **Jangan tebak action ID**: `40201` = remove contents (moving later), `40200` = insert empty space (moving later), `41060` = Run ReaScript. Verifikasi dari dokumentasi Cockos bila ragu.
+
+---
+
+Dibuat oleh **@indraqadarsih** — [Threads](https://www.threads.net/@indraqadarsih) · [Instagram](https://www.instagram.com/indraqadarsih)

@@ -90,3 +90,7 @@ Track referensi (video cut baru) **jangan** di-cut — biarkan utuh sebagai acua
 
 - [reference.md](reference.md) — field RPP, skrip parse Python, skema transform, jebakan.
 - [scripts/reaper_ripple_ops.lua](scripts/reaper_ripple_ops.lua) — runner ripple generik.
+
+---
+
+Dibuat oleh **@indraqadarsih** — [Threads](https://www.threads.net/@indraqadarsih) · [Instagram](https://www.instagram.com/indraqadarsih)
